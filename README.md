@@ -7,4 +7,4 @@
  2. ST Link V2 Programmer
  3. CH 340 USB to TTL interface module
 
-  <img src="images/IMG_20201231_233116.jpg" width="400">
+  <img src="Images/IMG_20201231_233116.jpg" width="400">
